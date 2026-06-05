@@ -1,0 +1,13 @@
+.DS_Store
+
+# Codex 本地认证和截图，不进入远端仓库。
+.codex-auth/
+
+# 飞书同步状态、报告和临时文件由本地自动化维护。
+.yuji-sync-tmp/
+docs/yuji-company/.feishu-sync-state.json
+docs/yuji-company/sync-reports/
+
+# 常见运行缓存。
+__pycache__/
+*.pyc
