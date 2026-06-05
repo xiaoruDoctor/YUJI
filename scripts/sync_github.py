@@ -13,7 +13,12 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 REMOTE_NAME = "origin"
-REMOTE_URL = "https://github.com/xiaoruDoctor/YUJI.git"
+REMOTE_URL = "git@github.com:xiaoruDoctor/YUJI.git"
+DISPLAY_URL = "https://github.com/xiaoruDoctor/YUJI"
+ACCEPTED_REMOTE_URLS = {
+    REMOTE_URL,
+    "https://github.com/xiaoruDoctor/YUJI.git",
+}
 DEFAULT_BRANCH = "main"
 TIMEZONE = ZoneInfo("Asia/Shanghai")
 
@@ -58,6 +63,10 @@ def ensure_remote() -> None:
         run_git(["remote", "add", REMOTE_NAME, REMOTE_URL])
         return
 
+    if remote_url in ACCEPTED_REMOTE_URLS:
+        run_git(["remote", "set-url", REMOTE_NAME, REMOTE_URL])
+        return
+
     if remote_url != REMOTE_URL:
         raise RuntimeError(f"远端 {REMOTE_NAME} 当前指向 {remote_url}，不是预期的 {REMOTE_URL}")
 
@@ -95,7 +104,7 @@ def sync(dry_run: bool) -> int:
     if dry_run:
         print("[dry-run] 将执行：git add --all")
         print(f"[dry-run] 当前变动：\n{git_output(['status', '--short']) or '无本地变动'}")
-        print(f"[dry-run] 将在有变动时提交并推送到 {REMOTE_URL} 的 {branch} 分支")
+        print(f"[dry-run] 将在有变动时提交并推送到 {DISPLAY_URL} 的 {branch} 分支")
         return 0
 
     run_git(["add", "--all"])
@@ -113,9 +122,9 @@ def sync(dry_run: bool) -> int:
     run_git(["push", "-u", REMOTE_NAME, branch])
 
     if commit_created:
-        print(f"GitHub 同步完成：已提交并推送到 {REMOTE_URL} 的 {branch} 分支。")
+        print(f"GitHub 同步完成：已提交并推送到 {DISPLAY_URL} 的 {branch} 分支。")
     elif has_local_changes():
-        print(f"GitHub 同步完成：无新增提交，已确认推送到 {REMOTE_URL} 的 {branch} 分支。")
+        print(f"GitHub 同步完成：无新增提交，已确认推送到 {DISPLAY_URL} 的 {branch} 分支。")
     else:
         print(f"GitHub 同步完成：没有本地变动，已确认远端 {branch} 分支是最新。")
     return 0
