@@ -23,7 +23,7 @@
 ## 文件与飞书同步
 
 - 正式落地内容写入 `/Users/lpx/project_user/YUJI`。
-- 正式 Markdown 文档每天 20:00 由自动化同步到飞书，不要每次立即同步。
+- 正式 Markdown 文档每天 20:00（北京时间 / Asia/Shanghai）由自动化同步到飞书，不要每次立即同步。
 - 不同步临时文件、缓存、二维码、构建产物和草稿性中间文件。
 - 同步脚本是 `scripts/sync_feishu.py`，映射表是 `docs/yuji-company/feishu-sync-index.md`。
 
@@ -40,4 +40,3 @@ YUJI 是“运动热爱痕迹品牌”，第一阶段聚焦羽毛球人的情绪
 - 供应链或商城项目
 
 前台表达不要讲 AI 和工程化；AI 是幕后能力，不是品牌主角。
-

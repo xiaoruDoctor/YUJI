@@ -84,7 +84,14 @@ YUJI 小红书第一阶段先建立“羽毛球人的情绪审美”，而不是
 
 ## 自动化节奏
 
-- 09:00：产出当天主小红书待审核笔记 + 一个产品洞察。
-- 18:00：补充外部观察、备选笔记、次日方向和 CEO 决策项。
-- 20:00：同步当天本地正式 Markdown 变动到飞书，并同步正式项目文件到 GitHub。
+- 09:00（北京时间 / Asia/Shanghai）：产出当天主小红书待审核笔记 + 一个产品洞察。
+- 18:00（北京时间 / Asia/Shanghai）：补充外部观察、备选笔记、次日方向和 CEO 决策项。
+- 20:00（北京时间 / Asia/Shanghai）：同步当天本地正式 Markdown 变动到飞书，并同步正式项目文件到 GitHub。
 - GitHub 同步必须独立执行；无论飞书同步是否成功，都要继续同步到 `https://github.com/xiaoruDoctor/YUJI`。
+
+每次 09:00 和 18:00 自动化运行后，还要维护运营素材库：
+
+- 已使用和未使用的外部观察进入 `docs/yuji-company/content-library/materials.md`。
+- 未发布但有潜力的内容方向进入 `docs/yuji-company/content-library/topics.md`。
+- 可能形成 MVP 的用户需求或内容信号进入 `docs/yuji-company/content-library/product-signals.md`。
+- 每条入库内容保留日期、来源、状态、标签和关联笔记，方便后续无素材时复用。
