@@ -20,12 +20,12 @@
 - `docs/yuji-brand/README.md`
 - 与任务相关的 `docs/yuji-company/skills/*.md`
 
-## 文件与飞书同步
+## 文件与远端同步
 
 - 正式落地内容写入 `/Users/lpx/project_user/YUJI`。
-- 正式 Markdown 文档每天 20:00（北京时间 / Asia/Shanghai）由自动化同步到飞书，不要每次立即同步。
+- 正式内容每天 20:00（北京时间 / Asia/Shanghai）由自动化同步到 GitHub，不要每次立即手动推送。
 - 不同步临时文件、缓存、二维码、构建产物和草稿性中间文件。
-- 同步脚本是 `scripts/sync_feishu.py`，映射表是 `docs/yuji-company/feishu-sync-index.md`。
+- 每日总控脚本是 `scripts/sync_daily.py`，GitHub 同步脚本是 `scripts/sync_github.py`。
 
 ## 品牌边界
 

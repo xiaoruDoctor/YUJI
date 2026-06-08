@@ -49,6 +49,6 @@
 | `docs/yuji-company/xhs-notes/published/2026-06-09-005-an-se-young-yuji-card.md` | 小红书已发布笔记 005：安洗莹 2026 半年未到的冠军节点 |  |  | failed |
 | `docs/yuji-company/xhs-notes/publishing-checklist.md` | YUJI 小红书发布前检查清单 |  |  | failed |
 | `docs/yuji-company/xhs-notes/publishing-plan.md` | YUJI 小红书冷启动发布计划 |  |  | failed |
-| `docs/yuji-company/xhs-notes/ready-to-publish/2026-06-05-001-yuji-first-note.md` | 小红书待发布笔记 001：YUJI 第一篇 |  |  | failed |
+| `docs/yuji-company/xhs-notes/ready-to-publish/2026-06-05-001-yuji-first-note.md` | 小红书已发布笔记 001：YUJI 第一篇 |  |  | failed |
 | `docs/yuji-company/xhs-notes/ready-to-publish/2026-06-05-002-old-ball-old-racket.md` | 小红书待发布笔记 002：有些球不值钱，但舍不得扔 |  |  | local_missing |
 | `docs/yuji-company/xhs-notes/ready-to-publish/2026-06-08-003-someone-waited-for-you.md` | 小红书待发布笔记 003：很多人喜欢上羽毛球，是因为有人等你一起 |  |  | failed |
