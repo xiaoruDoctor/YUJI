@@ -233,13 +233,13 @@
 ### 2026-06-08｜你第一次觉得自己像个球友，不是赢球那天
 
 - 状态：已用于笔记
-- 来源：中羽在线公开帖页搜索摘要《三年了，讲讲自己的心路历程》；Reddit / r/badminton《Shout out to all the people in social club sessions who go out of their way to accommodate newbies like me!》；2026-06-08 早间自动化整理
+- 来源：中羽在线原帖《三年了，讲讲自己的心路历程》；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3837653 ；Reddit / r/badminton《Shout out to all the people in social club sessions who go out of their way to accommodate newbies like me!》；2026-06-08 早间自动化整理
 - 原始表达摘要：普通球友从第一次进正规球馆时的局促和被嫌弃，慢慢走到“从被嫌弃到被邀请”；也有新手因为球友愿意拿出一局时间陪练，第一次觉得自己可以继续待在这个 club 里。
 - 情绪主题：普通球友身份感；被接纳；球馆归属。
-- 可转成的小红书表达：你第一次觉得自己像个球友，不是赢球那天。
-- 可转成的产品机会：普通球友 Player ID（轻量版）；常去球馆卡；入坑身份卡。
+- 可转成的小红书表达：三年了，讲讲我的羽毛球故事（来自球友）。
+- 可转成的产品机会：普通球友 Player ID（轻量版）；第二主场卡；三年羽毛球故事卡。
 - 标签：`普通球友`、`身份感`、`球馆归属`
-- 关联笔记：`daily/2026-06-08-0900.md`
+- 关联笔记：`daily/2026-06-08-0900.md`；`ready-to-publish/2026-06-09-007-first-feel-like-badminton-player.md`
 - 备注：前台不要写成球馆鄙视链，要写“慢慢被认得”的过程。
 
 ### 2026-06-08｜旧拍上的划痕，才是打球留下来的时间
@@ -270,14 +270,14 @@
 
 ### 2026-06-09｜留下你的，不一定是球馆，是那一群人
 
-- 状态：未使用
+- 状态：已用于笔记
 - 来源：Reddit / r/badminton《Playing at social events feel borderline hostile - need advice》；2026-01-16；2026-06-09 晚间自动化整理
 - 原始表达摘要：有球友在 social 局里长期觉得不被欢迎，高赞回复的核心不是“再忍一忍”，而是去找真正愿意接住你的 group；有人换到更友好、更多元的群体后，去打球更像去见朋友，而不只是完成一场运动。
 - 情绪主题：被欢迎而不是被容忍；找对球局；群体归属感。
 - 可转成的小红书表达：留下你的，不一定是球馆，是那一群人。
 - 可转成的产品机会：球友关系卡；常去球局记录。
 - 标签：`球友关系`、`归属感`、`固定球局`
-- 关联笔记：`daily/2026-06-09-1800.md`
+- 关联笔记：`daily/2026-06-09-1800.md`；`daily/2026-06-09-0900.md`
 - 备注：表达时不要展开族群议题，把重点放在“找到适合自己的球局氛围”。
 
 ### 2026-06-09｜认真打球，有时是从喜欢上那一声开始的
@@ -291,3 +291,79 @@
 - 标签：`一拍入坑`、`手感`、`入坑记忆`
 - 关联笔记：`daily/2026-06-09-1800.md`
 - 备注：后续可以和“第一次进馆”组合，做一组更前置的普通球友成长线。
+
+## 2026-06-09｜周二研究会补充素材入库
+
+### 2026-06-09｜下班后的两小时像临时避难所
+
+- 状态：未使用
+- 来源：Reddit / r/badminton《Badminton helped me battle with insecurities》；https://www.reddit.com/r/badminton/comments/14lffne/badminton_helped_me_battle_with_insecurities/ ；周二研究会会前整理
+- 原始表达摘要：有球友把羽毛球写成自己下班后的固定去处，不只是运动，还替代了喝酒和乱想；这不是“一次解压”，而是每周反复把自己拉回来的节奏。
+- 情绪主题：下班回血；生活秩序；成年人自救。
+- 可转成的小红书表达：下班后那两个小时，像给生活接了一口气。
+- 可转成的产品机会：下班回血记录卡；回到球馆这一周的纪念卡。
+- 标签：`下班回血`、`成年人热爱`、`球馆秩序`
+- 关联笔记：`research/weekly/2026-06-09-emotion-value-research.md`
+- 备注：前台不要写成健身打卡，也不要写成泛治愈鸡汤，要始终落在球馆门口、场边、热身和打完回家的具体瞬间。
+
+### 2026-06-09｜球馆第二主场感，不是场地参数，是那群人
+
+- 状态：已用于笔记
+- 来源：Reddit / r/badminton 搜索摘要《Has badminton had a significant impact on your life?》《Playing at social events feel borderline hostile - need advice》；https://duckduckgo.com/?q=site%3Areddit.com%2Fr%2Fbadminton+%22Has+badminton+had+a+significant+impact+on+your+life%3F%22 ；https://duckduckgo.com/?q=site%3Areddit.com%2Fr%2Fbadminton+%22Playing+at+social+events+feel+borderline+hostile+-+need+advice%22
+- 原始表达摘要：有人把羽毛球馆写成自己的 second home，也有人在不友好的球局里慢慢想离开；真正留下人的不是场馆本身，而是有一群人让你不必太用力解释自己。
+- 情绪主题：第二主场；被欢迎；固定球局归属感。
+- 可转成的小红书表达：你后来一直去的，不一定是最好的馆。
+- 可转成的产品机会：第二主场卡；球局关系卡；固定那一局记录。
+- 标签：`第二主场`、`归属感`、`固定球局`
+- 关联笔记：`research/weekly/2026-06-09-emotion-value-research.md`；`daily/2026-06-09-0900.md`
+- 备注：表达时避免写成球馆排名、约球攻略或社群工具，重点是“是谁把你留下来的”。
+
+### 2026-06-09｜旧拍退役时，很多人难受的不是损耗，是那段时间退场了
+
+- 状态：已用于笔记
+- 来源：Reddit / r/badminton《How long do badminton racquets last?》；https://www.reddit.com/r/badminton/comments/1lx18bo/how_long_do_badminton_racquets_last/ ；中羽在线公开搜索摘要《断拍了，要不要修》；https://duckduckgo.com/?q=%E6%96%AD%E6%8B%8D%E4%BA%86+%E8%A6%81%E4%B8%8D%E8%A6%81%E4%BF%AE+%E4%B8%AD%E7%BE%BD%E5%9C%A8%E7%BA%BF
+- 原始表达摘要：很多人舍不得的不是器材性能，而是 sentimental value；断拍或退役像一段时间、一个固定球局甚至某段关系跟着退场。
+- 情绪主题：旧拍情结；时间证据；关系痕迹。
+- 可转成的小红书表达：有些旧拍退役时，像一段时间退场了。
+- 可转成的产品机会：退役旧拍档案；旧球纪念封存；关系物件故事卡。
+- 标签：`旧拍`、`战损档案`、`运动记忆`
+- 关联笔记：`research/weekly/2026-06-09-emotion-value-research.md`；`daily/2026-06-09-0900.md`
+- 备注：这条后续可以和“第二主场”组合，少谈型号，多谈“它替你记住了什么”。
+
+## 2026-06-10｜晚间外部观察素材入库
+
+### 2026-06-10｜一周里最开心的那段路，可能是去球馆那段路
+
+- 状态：未使用
+- 来源：中羽在线《我的大学，我的羽毛球，我的青春！》；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3477701 ；2026-06-10 晚间自动化整理
+- 原始表达摘要：一位球友写自己离校工作后，和以前的球友分散各地，但还是会坚持约球、打完一起吃饭；朋友甚至在球馆给他过生日。他直写每周最开心的时候，就是周五下班后走去打球的那段路。
+- 情绪主题：固定球局；成年后友谊；每周仪式感。
+- 可转成的小红书表达：一周里最开心的那段路，可能是去球馆那段路。
+- 可转成的产品机会：每周那一局记录；固定球局周频卡。
+- 标签：`固定球局`、`成年人热爱`、`每周仪式感`
+- 关联笔记：`daily/2026-06-10-1800.md`
+- 备注：这条适合写生活节奏和朋友关系，不要滑向约球信息或社群攻略。
+
+### 2026-06-10｜被接住过的人，后来也会记得去看一眼新来的人
+
+- 状态：未使用
+- 来源：Reddit / r/badminton《Playing at a badminton club for the first time - Tips for managing nerves?》；https://www.reddit.com/r/badminton/comments/1fce2rj/playing_at_a_badminton_club_for_the_first_time/ ；2026-06-10 晚间自动化整理
+- 原始表达摘要：一位担心第一次去 club 会不会太尴尬的球友发帖求建议，高赞回复强调前几次紧张很正常，也有人提醒她，也许以后她会变成主动欢迎新人的那个人。
+- 情绪主题：第一次进 club 的紧张；温柔传递；球局文化。
+- 可转成的小红书表达：你后来愿意抬头看看新来的人，往往是因为你也被这样接住过。
+- 可转成的产品机会：入场被接住记录；球友关系卡。
+- 标签：`第一次进馆`、`被接住`、`球友关系`
+- 关联笔记：`daily/2026-06-10-1800.md`
+- 备注：这条重点是“温柔会传下去”，不要写成新手礼仪说明。
+
+### 2026-06-10｜你一直记得的那句场上话，可能比比分留得更久
+
+- 状态：未使用
+- 来源：Medium《The Big Things in Small Matters》；https://medium.com/%40snehaspeaks97/the-big-things-in-small-matters-5532440b093c ；2026-06-10 晚间自动化整理
+- 原始表达摘要：作者在比赛里失误后越来越沮丧，搭档只说了一句“不管输赢，先好好享受这一局”；最后留下来的，不是比分，而是那句让人稳下来的话。
+- 情绪主题：双打搭子；场上语言；被稳住的一瞬间。
+- 可转成的小红书表达：你一直记得的那句场上话，可能比比分留得更久。
+- 可转成的产品机会：搭子一句话档案；场上那一句卡。
+- 标签：`双打默契`、`固定搭子`、`场上语言`
+- 关联笔记：`daily/2026-06-10-1800.md`
+- 备注：很适合承接 YUJI 的关系线和痕迹线，前台不要写成鸡汤语录。

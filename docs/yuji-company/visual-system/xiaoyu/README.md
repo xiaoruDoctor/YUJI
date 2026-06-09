@@ -40,10 +40,12 @@
 ## 资产结构
 
 - 提示词最终版：`docs/yuji-company/visual-system/xiaoyu/prompts.md`
+- 小羽衣橱库：`docs/yuji-company/visual-system/xiaoyu/outfit-library.md`
 - 资产索引：`docs/yuji-company/visual-system/xiaoyu/assets-index.md`
 - 质量检查：`docs/yuji-company/visual-system/xiaoyu/qa-checklist.md`
 - 使用流程：`docs/yuji-company/visual-system/xiaoyu/workflow.md`
 - 基础参考图目录：`docs/yuji-company/visual-system/xiaoyu/assets/base-reference/`
+- 参考图变身提示词：`docs/yuji-company/skills/xiaoyu-transform-prompt.md`
 
 ## 关联文档
 
