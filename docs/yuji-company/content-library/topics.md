@@ -345,7 +345,7 @@
 
 ### 2026-06-10｜一周里最开心的那段路，可能是去球馆那段路
 
-- 状态：未使用
+- 状态：已用于笔记
 - 内容类型：羽毛球情绪观察 / 成年人热爱 / 固定球局
 - 来源素材：一周里最开心的那段路，可能是去球馆那段路
 - 推荐标题：一周里最开心的那段路，可能是去球馆那段路
@@ -354,7 +354,7 @@
 - 评论互动：你每周最期待去打的，是哪一局？
 - 可关联产品信号：每周那一局记录；固定球局周频卡。
 - 标签：`固定球局`、`成年人热爱`、`每周仪式感`
-- 关联笔记：`daily/2026-06-10-1800.md`
+- 关联笔记：`daily/2026-06-10-1800.md`；`ready-to-publish/2026-06-10-010-road-to-badminton-hall.md`
 
 ### 2026-06-10｜你后来愿意接住新人，往往是因为你也被接住过
 
@@ -368,3 +368,82 @@
 - 可关联产品信号：入场被接住记录；球友关系卡。
 - 标签：`第一次进馆`、`被接住`、`球友关系`
 - 关联笔记：`daily/2026-06-10-1800.md`
+
+## 2026-06-10｜早间自动化选题补录
+
+### 2026-06-10｜最好的搭子，不是一开始就合拍
+
+- 状态：已用于笔记
+- 内容类型：职业比赛热点 / 球搭子关系 / 混双默契
+- 来源素材：Christiansen/Boje 四周三冠与首个 Super 1000
+- 来源说明：BWF World Tour、Badminton Europe、Flashscore / Ritzau 公开报道；热点事实已用于情绪转译，不做赛事资讯
+- 来源链接：https://bwfworldtourfinals.bwfbadminton.com/news-single/2026/06/08/indonesia-open-four-weeks-three-titles/；https://badmintoneurope.com/w/christiansen/-b%C3%B8je-claim-first-super-1000-title；https://www.flashscore.com/news/badminton-indonesia-open-superseries-mixed-doubles-high-flying-danish-mixed-doubles-duo-win-indonesian-open-to-record-biggest-win-of-career/UDFZ5tcS/
+- 推荐标题：最好的搭子，不是一开始就合拍
+- 核心情绪：真正让人羡慕的搭子默契，不是天生完全同步，而是两个人愿意一局一局把乱掉的时刻打顺。
+- 开头切入：这两天看到一个混双热点，丹麦组合 Christiansen / Boje 四周三冠，但我想到的是球馆里很多普通搭子也不是一开始就合拍。
+- 评论互动：你和现在最默契的球搭子，是从哪一局开始打顺的？
+- 可关联产品信号：搭子成长卡；混双默契档案；一起打明白的人。
+- 标签：`职业比赛热点`、`球搭子`、`混双`、`搭子成长`
+- 关联笔记：`ready-to-publish/2026-06-10-011-best-partner-not-born-in-sync.md`
+
+### 2026-06-10｜你后来总想和谁打，不是因为他最强
+
+- 状态：已用于笔记
+- 内容类型：羽毛球情绪瞬间 / 球搭子关系 / 双打情绪安全
+- 来源素材：第一次开口找搭子时的局促；新手最怕的不是打不过，是上去了没人和他搭；双打里最让人慌的，是搭档那口气；让人想再约下一局的，是被接住而不是被指挥
+- 来源说明：中羽在线公开帖页；Reddit 公开讨论帖；Medium 公开长文
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3484710；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3377076；https://www.reddit.com/r/badminton/comments/1pcvh4v/intimidating_partner/；https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/
+- 推荐标题：你后来总想和谁打，不是因为他最强
+- 核心情绪：很多人一直想和某个球友站在同一边，不是因为对方最强，而是因为和他打一局不会一直慌，不会被叹气，不会老觉得自己拖后腿
+- 开头切入：你连续丢了两个球，正准备先说一句不好意思，他已经先摆摆手说，没事，这球我来补
+- 评论互动：你后来最想再约的那个球友，是怎么让你不慌的？
+- 可关联产品信号：不慌搭子卡；场上那一句卡
+- 标签：`球搭子`、`双打`、`固定球局`、`情绪安全`
+- 关联笔记：`daily/2026-06-10-0900.md`
+
+### 2026-06-10｜没有人和你搭的那十分钟
+
+- 状态：未使用
+- 内容类型：羽毛球情绪观察 / 新手归属感 / 球局秩序
+- 来源素材：新手最怕的不是打不过，是上去了没人和他搭；第一次开口找搭子时的局促
+- 来源说明：中羽在线公开帖页
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3377076；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3484710
+- 推荐标题：很多人第一次想离开球馆，不是因为输球
+- 核心情绪：普通球友第一次真正难受的，常常不是打不过，而是站在场边不知道这一局会不会有人叫自己上
+- 开头切入：有时候让人最想回家的，不是一拍没接到，是你明明已经换好鞋了，还站在场边等有没有人缺一个
+- 评论互动：你第一次去陌生球馆，最怕的是打不过，还是没人和你搭？
+- 可关联产品信号：入场被接住记录；第一局被留下记录
+- 标签：`新手归属感`、`球局秩序`、`第一次进馆`
+- 关联笔记：无
+
+## 2026-06-11｜早间自动化选题入库
+
+### 2026-06-11｜有些球拍一直在补，不是因为还能打
+
+- 状态：已用于笔记
+- 内容类型：羽毛球情绪瞬间 / 战损装备 / 运动记忆
+- 来源素材：旧拍里会一起留下别人给过的善意；第一支像样的球拍，很难只被当成装备；最难的不是旧拍坏掉，是它终于要退役了；一支拍见过的人和场地，可能比比分留得更久
+- 来源说明：中羽在线搜索抓取摘要；Reddit 公开搜索结果摘要与公开帖子中文页；公开个人博客长文
+- 来源链接：https://bbs.badmintoncn.com/forum.php/utility/forum.php?extra=&mod=viewthread&tid=601575；https://www.reddit.com/r/badminton/comments/vv5fi9/show_off_your_racket/；https://www.reddit.com/r/badminton/comments/1lx18bo/how_long_do_badminton_racquets_last/；https://www.reddit.com/r/badminton/comments/1kdx7ct/where_to_recycle_this_its_probably_beyond_repair/?tl=zh-hans；https://sivanesh.dev/blog/my-badminton-racket-s-farewell
+- 推荐标题：有些球拍一直在补，不是因为还能打
+- 核心情绪：很多人迟迟不让旧拍退役，不是因为买不起新的，也不是因为旧拍最强，而是因为那支拍替自己记住了最后一局、某个人和一段还没舍得说完的日子。
+- 开头切入：线断过很多次，边框磕花了，手胶也换了一层又一层，可你第一反应还是“要不要再补一次”。
+- 评论互动：你那支一直没舍得退役的球拍，最后陪你打的是哪一局？
+- 可关联产品信号：旧拍告别卡；来历档案。
+- 标签：`旧拍`、`战损装备`、`最后一局`、`运动记忆`
+- 关联笔记：`daily/2026-06-11-0900.md`
+
+### 2026-06-11｜让一支旧拍体面退役
+
+- 状态：未使用
+- 内容类型：羽毛球情绪观察 / 旧物记忆 / 告别仪式
+- 来源素材：最难的不是旧拍坏掉，是它终于要退役了；一支拍见过的人和场地，可能比比分留得更久
+- 来源说明：Reddit 公开帖子中文页；公开个人博客长文
+- 来源链接：https://www.reddit.com/r/badminton/comments/1kdx7ct/where_to_recycle_this_its_probably_beyond_repair/?tl=zh-hans；https://sivanesh.dev/blog/my-badminton-racket-s-farewell
+- 推荐标题：最难的不是换新拍，是让那支旧拍体面退役
+- 核心情绪：很多人不是不能接受球拍坏掉，而是想给这支陪过自己很久的拍一个不那么草率的结尾。
+- 开头切入：真到旧拍修不回来的那天，你最先想到的，可能不是扔掉，而是先把线剪了，想一想该把它放在哪。
+- 评论互动：你会把退役球拍留下来吗？为什么？
+- 可关联产品信号：旧拍告别卡；退役仪式样稿。
+- 标签：`旧拍`、`退役`、`告别`
+- 关联笔记：无
