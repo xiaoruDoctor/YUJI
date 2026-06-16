@@ -46,9 +46,11 @@
 - 使用流程：`docs/yuji-company/visual-system/xiaoyu/workflow.md`
 - 基础参考图目录：`docs/yuji-company/visual-system/xiaoyu/assets/base-reference/`
 - 参考图变身提示词：`docs/yuji-company/skills/xiaoyu-transform-prompt.md`
+- 小羽朋友圈类型库：`docs/yuji-company/skills/xiaoyu-moments.md`
 
 ## 关联文档
 
 - 角色圣经：`docs/superpowers/specs/2026-06-08-yuji-virtual-female-badminton-player-design.md`
 - 品牌语气：`docs/yuji-company/skills/yuji-brand-voice.md`
 - 小红书笔记流程：`docs/yuji-company/skills/xhs-note-writer.md`
+- 小羽朋友圈类型库：`docs/yuji-company/skills/xiaoyu-moments.md`
