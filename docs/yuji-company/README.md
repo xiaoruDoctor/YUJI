@@ -8,6 +8,7 @@
 - [小红书发布内容库](./xhs-notes/README.md)：沉淀草稿、待发布、已发布和复盘反馈。
 - [YUJI 研究项目](./research/README.md)：沉淀每周情绪价值研究会、全球社区观察和跨 Agent 讨论结论。
 - [小羽视觉角色系统](./visual-system/xiaoyu/README.md)：沉淀 YUJI 固定女生球友小羽的提示词、资产索引、质检清单和使用流程。
+- [插画视觉风格库](./visual-system/illustration-styles.md)：沉淀低频使用的插画类视觉变体，补充轻图文、人格系列和风格测试。
 
 ## 固定角色
 
