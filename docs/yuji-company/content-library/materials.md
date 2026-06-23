@@ -20,6 +20,74 @@
 
 ## 2026-06-16｜CEO 图片素材入库
 
+## 2026-06-23｜周会研究素材入库
+
+### 2026-06-23｜固定球局让生活变稳
+
+- 状态：未使用
+- 来源：2026-06-23 周会研究；知乎回答《女生很喜欢打羽毛球是一种怎样的体验？》；https://www.zhihu.com/question/315599985/answer/3215371212
+- 原始表达摘要：公开回答摘要里出现“每周打工和打球模式，球搭子也很固定”，说明羽毛球不只是运动安排，而是普通女生工作周里稳定的生活锚点。页面可读信息有限，本条作为国内语感线索。
+- 情绪主题：固定球局；下班回血；女生球友；生活稳定感
+- 可转成的小红书表达：打工和打球都固定以后，生活好像真的会稳一点。
+- 可转成的产品机会：第二主场卡；这一周回血记录；固定球局纪念。
+- 标签：`固定球局`、`下班回血`、`女生球友`、`第二主场`
+- 关联笔记：`research/weekly/2026-06-23-emotion-value-research.md`
+- 备注：适合和“第二主场”合并，不要写成效率打卡或健身日程。
+
+## 2026-06-23｜早间自动化素材入库
+
+### 2026-06-23｜失误后那句没事，比赢下一分更让人记住
+
+- 状态：已用于笔记
+- 来源：知乎问题《为什么羽毛球搭子总要指点我？》；Reddit / r/badminton《People are intimidated to partner me in social games. How do I fix this?》《Why people are so mean when playing?》
+- 来源说明：知乎为国内公开问题页与搜索摘要，完整回答访问受限；Reddit 为海外公开讨论帖，用于补充双打伙伴关系和社交局情绪结构。
+- 来源链接：https://www.zhihu.com/question/1933098537232609436；https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/；https://www.reddit.com/r/badminton/comments/17vu1rq/why_people_are_so_mean_when_playing/
+- 原始表达摘要：搭子指点、社交局搭档压力和失误后情绪反复指向同一个痛点：很多人真正怕的不是输球，而是失误后搭子的语气让自己不想继续打。
+- 情绪主题：场上语气；双打安全感；固定搭子；失误后的被接住
+- 可转成的小红书表达：双打最让人安心的，不是有人替你赢，是你失误后那句没事。
+- 可转成的产品机会：场上那一句卡；搭子纪念卡；第二主场卡关系字段。
+- 标签：`双打默契`、`场上语气`、`固定搭子`、`失误安全感`
+- 关联笔记：`daily/2026-06-23-0900.md`
+- 备注：前台表达要落在具体一句话，不要写成搭子控诉或技术争论。
+
+### 2026-06-23｜菜鸟互啄说明普通球友要的是低压力上场
+
+- 状态：未使用
+- 来源：B站视频《寻厦门岛内羽毛球搭子，欢迎菜鸟互啄》
+- 来源说明：国内平台公开标题级线索；未读取完整评论区，只作为公开语感观察。
+- 来源链接：https://www.bilibili.com/video/BV1dA4m1A75J/
+- 原始表达摘要：标题用“欢迎菜鸟互啄”找搭子，说明普通球友在找的不一定是高水平局，而是低压力、能一起打起来的人。
+- 情绪主题：找搭子；新手友好；低压力球局；普通球友归属
+- 可转成的小红书表达：有时候最想找的不是高手搭子，是一个愿意菜鸟互啄的人。
+- 可转成的产品机会：入坑记忆卡；场边不多余卡；普通球友 Player ID。
+- 标签：`菜鸟互啄`、`找搭子`、`新手友好`、`低压力球局`
+- 关联笔记：`daily/2026-06-23-0900.md`
+- 备注：可作为后续轻一点的“普通球友也属于这里”选题，不要写成约球攻略。
+
+### 2026-06-23｜第二主场不是最好的馆，是有人喊你
+
+- 状态：未使用
+- 来源：2026-06-23 周会研究；Reddit / r/badminton《Is this a normal club culture? Feeling invisible and hurt at my badminton club.》；https://www.reddit.com/r/badminton/comments/1nvytx0/is_this_a_normal_club_culture_feeling_invisible/；Badminton England No Strings Badminton；https://www.badmintonengland.co.uk/play/programmes/no-strings-badminton；Play Badminton Club Sessions；https://www.playbadminton.club/club-sessions
+- 原始表达摘要：海外社区里有人因为在俱乐部感到被忽视而受伤，公开俱乐部页面则反复强调 welcome、friendly、meet new people。两类来源共同说明，普通球友继续回到一片场地，核心不只是场地条件，而是有没有被接住和被认得。
+- 情绪主题：第二主场；欢迎感；归属感；普通球友
+- 可转成的小红书表达：你后来一直去的，不一定是最好的馆，是那一局里有人会喊你。
+- 可转成的产品机会：第二主场卡；场边不多余卡；普通球友 Player ID。
+- 标签：`第二主场`、`归属感`、`欢迎感`、`普通球友`
+- 关联笔记：`research/weekly/2026-06-23-emotion-value-research.md`
+- 备注：情绪较重时要避免控诉球局文化，重点写“谁把你喊回来”。
+
+### 2026-06-23｜旧物替我记得一场用力打过的球
+
+- 状态：未使用
+- 来源：2026-06-23 周会研究；B站视频《把羽毛球打到这程度根本舍不得扔》；https://www.bilibili.com/video/BV1YM411T7rr/；Reddit / r/badminton《How long do badminton racquets last?》；https://www.reddit.com/r/badminton/comments/1lx18bo/how_long_do_badminton_racquets_last/；Sivanesh's Blog《My Badminton Racket's Farewell, The Racket That Saw It All》；https://sivanesh.com/my-badminton-rackets-farewell-the-racket-that-saw-it-all/
+- 原始表达摘要：旧球、旧拍和退役球拍反复被用户赋予情感价值。用户舍不得的不是物品价格，而是它替自己保存了某段入坑、成长、搭子和认真打过的时间。
+- 情绪主题：旧拍；旧球；战损装备；运动记忆
+- 可转成的小红书表达：有些球已经不能打了，但它替你记住了一场很用力的球。
+- 可转成的产品机会：退役球拍档案；旧球记忆相框；战损装备档案。
+- 标签：`旧拍`、`旧球`、`战损档案`、`运动记忆`
+- 关联笔记：`research/weekly/2026-06-23-emotion-value-research.md`
+- 备注：视觉表达要克制干净，避免废品感，也避免滑向装备型号讨论。
+
 ## 2026-06-22｜自动化素材入库
 
 ### 2026-06-22｜女生固定打工打球模式
@@ -1001,3 +1069,47 @@
 - 标签：`同频伙伴`、`失误安全感`、`固定周频`
 - 关联笔记：`daily/2026-06-18-1800.md`
 - 备注：更适合写小关系和小氛围，不要滑成报班安利。
+
+## 2026-06-23｜晚间补充素材入库
+
+### 2026-06-23｜低压力菜鸟互啄，比高手局更能把普通球友留住
+
+- 状态：未使用
+- 来源：B站视频《寻厦门岛内羽毛球搭子，欢迎菜鸟互啄》
+- 来源说明：国内平台公开标题级线索；抓取于 2026-06-23；未读取完整评论区，只作为小红书语感和普通球友需求线索。
+- 来源链接：https://www.bilibili.com/video/BV1dA4m1A75J/
+- 原始表达摘要：标题用“欢迎菜鸟互啄”找球搭子，说明普通球友想找的不一定是高手局，而是低压力、能一起打起来的人。
+- 情绪主题：低压力球局；新手友好；找搭子；普通球友归属
+- 可转成的小红书表达：有时候最想找的不是高手搭子，是一个愿意菜鸟互啄的人
+- 可转成的产品机会：第二主场卡字段：这里为什么让你敢上场；入坑记忆卡
+- 标签：`菜鸟互啄`、`低压力球局`、`新手友好`
+- 关联笔记：`daily/2026-06-23-1800.md`
+- 备注：不要写成约球攻略或技术分级，重点写“现在这个水平也可以来”的安全感。
+
+### 2026-06-23｜让人离开球局的，常常是坐在场边没人喊
+
+- 状态：未使用
+- 来源：Reddit / r/badminton《Is this a normal club culture? Feeling invisible and hurt at my badminton club.》《People are intimidated to partner me in social games. How do I fix this?》
+- 来源说明：海外公开讨论；抓取于 2026-06-23；用于补充社交局、俱乐部文化和搭档压力的长期情绪结构。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1nvytx0/is_this_a_normal_club_culture_feeling_invisible/；https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/
+- 原始表达摘要：海外球友讨论里反复出现社交局是否欢迎新人、搭档会不会被自己吓到、坐在场边没人喊的问题。业余羽毛球的留存，不只是场地和水平，也依赖一个人有没有被球局接住。
+- 情绪主题：被欢迎；被喊上场；不想像空气；社交局安全感
+- 可转成的小红书表达：让人不想再去的，有时候不是输球，是坐在场边很久没人喊你
+- 可转成的产品机会：第二主场卡字段：谁会喊你；场边不多余字段
+- 标签：`被欢迎`、`场边等待`、`第二主场`
+- 关联笔记：`daily/2026-06-23-1800.md`
+- 备注：情绪较重，前台要写温柔一点，避免变成对球局文化的控诉。
+
+### 2026-06-23｜friendly 和 welcome 背后，是成年人想找一局不紧绷的球
+
+- 状态：未使用
+- 来源：Badminton England《No Strings Badminton》；Play Badminton《Club Sessions》
+- 来源说明：公开组织/俱乐部页面，不是用户原帖；抓取于 2026-06-23；用于交叉验证欢迎感、低门槛和社交属性。
+- 来源链接：https://www.badmintonengland.co.uk/play/programmes/no-strings-badminton；https://www.playbadminton.club/club-sessions
+- 原始表达摘要：公开组织页面把羽毛球社交活动包装成轻松、友好、适合不同水平的人参与。值得关注的不是活动模式，而是普通成年人需要一个既能运动、又不会被过度审视的地方。
+- 情绪主题：第二主场；欢迎感；成年人轻社交；固定球局
+- 可转成的小红书表达：你后来一直去的，不一定是最好的馆，是那一局不会让你太紧绷
+- 可转成的产品机会：第二主场卡字段：那一局为什么让你想回来
+- 标签：`friendly`、`welcome`、`成年人轻社交`
+- 关联笔记：`daily/2026-06-23-1800.md`
+- 备注：这是公开网页补证，不适合直接当真实用户原话引用。
