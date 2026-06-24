@@ -188,3 +188,4 @@ seq -w 1 14 | shuf -n 1
 |-|-|-|-|-|-|
 | 2026-06-09 | `ready-to-publish/2026-06-08-006-xiaoyu-emotion-outlet.md` | 未编号旧款 | 下班到球馆 / 场边换鞋 / 场边休息 | 待发布后复盘 | 本次多图服装不完全一致，后续按衣橱库锁定同一套 |
 | 2026-06-09 | `ready-to-publish/2026-06-09-008-xiaoyu-two-hours-after-work.md` | `XY-OUTFIT-12` | 下班到球馆 / 小羽轻图文封面 | 已设置 2026-06-13 08:30 定时发布 | 封面图已保存到 `ready-to-publish/assets/2026-06-09-008/` |
+| 2026-06-24 | `published/2026-06-24-015-xiaoyu-court-selfie.md` | `XY-OUTFIT-09` | 球馆自拍 / 下班回血 / 小羽朋友圈笔记 | 已发布，待 2 小时和 24 小时数据复盘 | 若最终发布图不是此服装，后续按实际图片修正 |
