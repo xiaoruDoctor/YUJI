@@ -24,6 +24,61 @@
 
 ## 2026-06-24｜晚间自动化素材入库
 
+## 2026-06-29｜周报素材入库
+
+### 2026-06-29｜最后一局把人喊回场上
+
+- 状态：已用于周报主笔记
+- 来源：2026-06-29 周报综合；Reddit / r/badminton drop-in 与社交局讨论；Badminton England No Strings Badminton；Play Badminton Club Sessions；本地 2026-06-23 至 2026-06-26 日报沉淀
+- 来源说明：海外社区和公开组织网页用于补充“被欢迎、被放进一局”的结构；国内本地素材用于校准小红书语感。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1ls03ze/how_friendly_are_people_at_drop_in_at_badminton/；https://www.reddit.com/r/badminton/comments/1l87xg1/not_able_to_find_people_to_play_with_me_at_the/；https://www.badmintonengland.co.uk/play/programmes/no-strings-badminton/；https://www.playbadminton.club/club-sessions
+- 原始表达摘要：普通球友持续回到同一片球局，不只是因为场地条件，而是有人喊自己、等自己、允许自己状态一般时也能上场。`最后一局，还打吗？` 可以把近期的第二主场、约球原话和场上那一句合并起来。
+- 情绪主题：最后一局；第二主场；被喊回场上；固定球局
+- 可转成的小红书表达：最后一局，常常不是因为还想赢，是因为有人还想和你把这晚打完。
+- 可转成的产品机会：第二主场卡；每周那一局卡；场上那一句卡。
+- 标签：`最后一局`、`第二主场`、`固定球局`、`场上那一句`
+- 关联笔记：`daily/2026-06-29-weekly.md`
+- 备注：下周优先使用；不要写成约球工具、球馆推荐或拉群服务。
+
+### 2026-06-29｜球局小战利品是一种轻荣誉感
+
+- 状态：未使用
+- 来源：中羽在线《羽毛球要不要报班？——一个零基础小白的 40 小时小班课实践报告》；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958
+- 来源说明：国内论坛公开长帖和评论区可读片段；用于捕捉普通球友固定搭子和轻荣誉感。
+- 原始表达摘要：球友讨论里提到水平差不多、一起进步、每周打球赌一瓶水。水不贵，但像普通球局里的小战利品，让固定搭子关系变得更有记忆点。
+- 情绪主题：固定搭子；轻荣誉感；每周球局；一起进步
+- 可转成的小红书表达：有些搭子关系，是从每周争一瓶水开始变熟的。
+- 可转成的产品机会：每周那一局卡；搭子纪念卡；球局小战利品。
+- 标签：`固定搭子`、`轻荣誉感`、`每周那一局`、`小战利品`
+- 关联笔记：`daily/2026-06-29-weekly.md`
+- 备注：使用时避免赌博感、输赢攀比和促销奖品感。
+
+### 2026-06-29｜状态一般也能上场的球局更让人想回去
+
+- 状态：未使用
+- 来源：Badminton England No Strings Badminton；https://www.badmintonengland.co.uk/play/programmes/no-strings-badminton/；Play Badminton Club Sessions；https://www.playbadminton.club/club-sessions；Reddit / r/badminton 社交局讨论
+- 来源说明：公开组织/俱乐部网页和海外社区讨论；不是用户原话，用于交叉验证低门槛、欢迎感和社交属性。
+- 原始表达摘要：公开项目页强调 casual、social、meet new people、all abilities。它们说明很多普通球友需要的不是更专业的场，而是一个状态一般也能被接进来的场。
+- 情绪主题：欢迎感；低压力球局；第二主场；成年人轻社交
+- 可转成的小红书表达：有些球局让人想回去，不是因为场地最好，是因为你状态一般时也能上场。
+- 可转成的产品机会：第二主场卡。
+- 标签：`欢迎感`、`低压力球局`、`第二主场`
+- 关联笔记：`daily/2026-06-29-weekly.md`
+- 备注：适合写温柔归属，不写成球局文化控诉。
+
+### 2026-06-29｜第一支拍可能就是第一个 Player ID
+
+- 状态：未使用
+- 来源：BadmintonCentral《Do you remember your first racket?》；https://www.badmintoncentral.com/forums/index.php?threads/do-you-remember-your-first-racket.7351/；Sivanesh 个人博客《My Badminton Racket's Farewell》；https://sivanesh.dev/blog/my-badminton-racket-s-farewell
+- 来源说明：海外论坛旧帖和公开个人博客；不是当天热帖，用作长期旧拍记忆结构。
+- 原始表达摘要：第一支拍、长期使用的球拍和告别旧拍的故事，经常把球拍从装备工具写成成长见证物。
+- 情绪主题：第一支拍；旧拍退役；Player ID；运动记忆
+- 可转成的小红书表达：很多人的 Player ID，不是从赢球开始，是从第一支拍开始。
+- 可转成的产品机会：旧拍退役相框；普通球友 Player ID。
+- 标签：`第一支拍`、`旧拍`、`Player ID`、`运动记忆`
+- 关联笔记：`daily/2026-06-29-weekly.md`
+- 备注：后续写作必须避开型号、磅数和装备测评。
+
 ### 2026-06-24｜找搭子是找愿意磨合的人
 
 - 状态：已用于笔记
