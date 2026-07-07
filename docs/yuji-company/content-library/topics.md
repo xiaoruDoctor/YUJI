@@ -1123,3 +1123,50 @@
 - 可关联产品信号：旧物记忆相框；旧球记忆相框。
 - 标签：`旧球`、`旧物 DIY`、`记忆相框`
 - 关联笔记：`research/weekly/2026-06-30-emotion-value-research.md`
+
+## 2026-07-07｜周会研究选题入库
+
+### 2026-07-07｜普通球友也想把名字印在背后
+
+- 状态：未使用
+- 内容类型：身份认同 / 印名球衣 / Player ID 轻量入口
+- 来源素材：`materials.md` 中“名字印在背后，是普通球友的出场感”；Reddit / r/badminton 印名球衣讨论
+- 来源说明：海外公开社区原帖；用于捕捉普通球友对印名、出场感和“会不会太装”的矛盾。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1rm4ys6/personalized_player_jersey/；https://www.reddit.com/r/badminton/comments/1t66ann/wanted_to_know_about_badminton_jerseys/；https://www.reddit.com/r/badminton/comments/vz12r1/where_can_i_get_my_namecountry_printed_on_the/
+- 推荐标题：普通球友也想把名字印在背后
+- 核心情绪：普通球友不是想冒充职业选手，只是想拥有一个体面的出场名。
+- 开头切入：有时候你不是想买一件队服，是想知道如果自己上场，背后应该写什么名字。
+- 评论互动：如果球衣背后只能印一个词，你会印什么？
+- 可关联产品信号：普通球友身份卡；球衣背后的名字；Player ID 轻量版。
+- 标签：`印名球衣`、`普通球友`、`Player ID`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+
+### 2026-07-07｜你们球局的群名，可能比队服更像队魂
+
+- 状态：未使用
+- 内容类型：固定球局 / 队名群名 / 搭子小队
+- 来源素材：`materials.md` 中“球局群名和队名，是普通球友的轻队魂”；Reddit 队名讨论；中羽在线两个群球友谊赛
+- 来源说明：海外公开社区与国内公开论坛交叉验证。
+- 来源链接：https://www.reddit.com/r/badminton/comments/t9v3uu/badminton_group_chat_name_ideas/；https://www.reddit.com/r/badminton/comments/lcbg2x/badminton_team_name_suggestion/；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3649341
+- 推荐标题：你们球局的群名，可能比队服更像队魂
+- 核心情绪：一个好笑或认真起过的群名，能把临时约球变成“我们这一局”。
+- 开头切入：很多球局没有统一队服，但一定有一个只有你们懂的群名。
+- 评论互动：你们球局 / 群聊叫什么名字？
+- 可关联产品信号：搭子小队卡；球局群名卡；出场名单卡。
+- 标签：`队名`、`群名`、`搭子小队`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+
+### 2026-07-07｜下班后那两小时，是我留给自己的
+
+- 状态：未使用
+- 内容类型：下班回血 / 精神恢复 / 成年人热爱
+- 来源素材：`materials.md` 中“下班后那两小时，是成年人留给自己的回血时间”；Reddit 精神恢复帖；知乎下班打球回答摘要
+- 来源说明：海外公开社区原帖与国内公开回答摘要；用于校准“精神回血”与国内生活语感。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1mtlzcb/how_much_of_an_impact_did_badminton_do_to_your/；https://www.reddit.com/r/badminton/comments/14lffne/badminton_helped_me_battle_with_insecurities/；https://www.zhihu.com/question/603416636/answer/3059663644
+- 推荐标题：下班后那两小时，是我留给自己的
+- 核心情绪：固定打球时间不是任性，而是普通成年人给自己留的一段恢复空间。
+- 开头切入：有些人下班后不是非要去打球，是只有那两个小时像是真的属于自己。
+- 评论互动：下班后那两小时，对你来说像什么？
+- 可关联产品信号：这一周回血记录；回来打球卡；每周那一局卡。
+- 标签：`下班回血`、`精神恢复`、`固定球局`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`

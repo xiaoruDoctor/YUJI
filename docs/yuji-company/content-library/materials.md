@@ -1327,3 +1327,61 @@
 - 标签：`旧物 DIY`、`旧球`、`旧拍`、`记忆相框`
 - 关联笔记：`research/weekly/2026-06-30-emotion-value-research.md`
 - 备注：暂不做实物周边和手工教程；先收故事和做电子样稿。
+
+## 2026-07-07｜周会研究素材入库
+
+### 2026-07-07｜名字印在背后，是普通球友的出场感
+
+- 状态：未使用
+- 来源：2026-07-07 周会研究；Reddit / r/badminton `Personalized Player Jersey?`、`Wanted to know about Badminton Jerseys`、`Where can I get my name/country printed on the back of a shirt?`
+- 来源说明：海外公开社区原帖；用于捕捉普通球友对印名球衣的向往、尴尬感和身份边界。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1rm4ys6/personalized_player_jersey/；https://www.reddit.com/r/badminton/comments/1t66ann/wanted_to_know_about_badminton_jerseys/；https://www.reddit.com/r/badminton/comments/vz12r1/where_can_i_get_my_namecountry_printed_on_the/
+- 原始表达摘要：用户会问能不能在球衣背后印名字、国家或俱乐部，也会担心这样看起来太像职业选手。真正的情绪不是买队服，而是普通球友也想拥有一个体面的出场名。
+- 情绪主题：印名球衣；身份可见；普通球友；出场感
+- 可转成的小红书表达：普通球友也想把名字印在背后，只是怕显得太用力。
+- 可转成的产品机会：普通球友身份卡；球衣背后的名字；Player ID 轻量版。
+- 标签：`印名球衣`、`身份可见`、`Player ID`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+- 备注：不要做队服定制和印字服务，重点收集用户想印的那个词。
+
+### 2026-07-07｜球局群名和队名，是普通球友的轻队魂
+
+- 状态：未使用
+- 来源：2026-07-07 周会研究；Reddit / r/badminton `Badminton Group Chat Name Ideas?`、`Badminton Team Name Suggestion`；中羽在线《两个群球友谊赛》
+- 来源说明：海外公开社区和国内公开论坛交叉验证；用于捕捉队名、群名、编号和业余团体赛的归属感。
+- 来源链接：https://www.reddit.com/r/badminton/comments/t9v3uu/badminton_group_chat_name_ideas/；https://www.reddit.com/r/badminton/comments/lcbg2x/badminton_team_name_suggestion/；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3649341
+- 原始表达摘要：球友会为群聊和团队赛征集名字，也会按 1-5 号位填写出场名单。普通球友也需要一个“我们是谁”的轻量仪式，不一定非要正式队服。
+- 情绪主题：队名；群名；业余团体赛；归属感
+- 可转成的小红书表达：你们球局的群名，可能比队服更像队魂。
+- 可转成的产品机会：搭子小队卡；出场名单卡；球局群名卡。
+- 标签：`队名`、`群名`、`搭子小队`、`轻队魂`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+- 备注：内容端可以收集群名和队名；产品端不做队徽、队服和社群工具。
+
+### 2026-07-07｜下班后那两小时，是成年人留给自己的回血时间
+
+- 状态：未使用
+- 来源：2026-07-07 周会研究；Reddit / r/badminton `How much of an impact did badminton do to your life`、`Badminton helped me battle with insecurities`；知乎问题《本人女，爱打羽毛球，老公非常不支持怎么办？》
+- 来源说明：海外公开社区原帖与国内公开回答摘要；用于捕捉精神恢复、下班打球和生活边界。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1mtlzcb/how_much_of_an_impact_did_badminton_do_to_your/；https://www.reddit.com/r/badminton/comments/14lffne/badminton_helped_me_battle_with_insecurities/；https://www.zhihu.com/question/603416636/answer/3273708993；https://www.zhihu.com/question/603416636/answer/3059663644
+- 原始表达摘要：海外用户把羽毛球写成走出压力、离婚、社交不安和自我怀疑的方式；国内回答摘要里也反复出现下班后、周末、每周一次、打两小时这类固定生活节奏。
+- 情绪主题：精神回血；下班后；生活边界；普通球友
+- 可转成的小红书表达：下班后那两小时，是我留给自己的。
+- 可转成的产品机会：这一周回血记录；回来打球卡；每周那一局卡。
+- 标签：`下班回血`、`精神恢复`、`每周那一局`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+- 备注：不要写成心理咨询、鸡血励志或婚恋争论；必须落在具体球局和用户自己的两个小时。
+
+### 2026-07-07｜手胶颜色和拍包动作，是球友身份的小仪式
+
+- 状态：未使用
+- 来源：2026-07-07 周会研究；爱羽客圈子《白金色的羽毛球拍配什么颜色的手胶好看》；中羽在线《羽毛球纯新手的缠手胶教程》；B站公开搜索“羽毛球 缠手胶”
+- 来源说明：国内公开问答、教程帖和搜索入口；证据偏功能，但能提示仪式感和个性化表达。
+- 来源链接：https://quanzi.tiyushe.com/article/view.html?app=%40aykAPP_nobanner&id=74781；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3685463；https://search.bilibili.com/all?keyword=%E7%BE%BD%E6%AF%9B%E7%90%83%20%E7%BC%A0%E6%89%8B%E8%83%B6
+- 原始表达摘要：用户会在意手胶颜色、缠得是否服帖、握起来是否舒适。对 YUJI 来说，这不是教程素材，而是打球前把球拍调整成“我的拍”的重复动作。
+- 情绪主题：手胶；拍包仪式；个性化；上场前
+- 可转成的小红书表达：第一次自己缠手胶，像是在给球拍认主人。
+- 可转成的产品机会：拍包仪式卡；Player ID 视觉字段。
+- 标签：`手胶`、`拍包仪式`、`个性化`
+- 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+- 备注：暂不做产品，先作为内容互动问题观察。
