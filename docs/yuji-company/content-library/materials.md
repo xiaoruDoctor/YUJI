@@ -1383,5 +1383,49 @@
 - 可转成的小红书表达：第一次自己缠手胶，像是在给球拍认主人。
 - 可转成的产品机会：拍包仪式卡；Player ID 视觉字段。
 - 标签：`手胶`、`拍包仪式`、`个性化`
+
+## 2026-07-14｜周会研究素材入库
+
+### 2026-07-14｜被球馆里的人叫出名字，才更像真的留下来了
+
+- 状态：未使用
+- 来源：2026-07-14 周会研究；中羽在线《三年了，讲讲自己的心路历程》；Reddit / r/badminton 新手被接住与 club 归属讨论
+- 来源说明：国内论坛公开长帖与海外公开社区交叉验证；重点不是外号本身，而是从被嫌弃、坐在场边到被邀请、被喊上场的身份变化。
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3837653；https://www.reddit.com/r/badminton/comments/1nvytx0/is_this_a_normal_club_culture_feeling_invisible/；https://www.reddit.com/r/badminton/comments/14lffne/badminton_helped_me_battle_with_insecurities/
+- 原始表达摘要：普通球友开始被人叫外号、被邀请补局、被默认会出现时，才真正感觉自己从临时来的人变成了这片场地的一员。身份不是自己填写出来的，而是被一群人反复叫出来的。
+- 情绪主题：被认得；球馆称呼；被邀请；普通球友身份
+- 可转成的小红书表达：你开始被人叫外号那天，可能也算真的留下来了。
+- 可转成的产品机会：球馆称呼卡；被认得版 Player ID；第二主场卡关系字段。
+- 标签：`球馆称呼`、`被认得`、`Player ID`、`归属感`
+- 关联笔记：`research/weekly/2026-07-14-emotion-value-research.md`
+- 备注：避免做搞笑外号征集；必须追问谁先这样叫、从哪一局开始、为什么记得。
+
+### 2026-07-14｜场上那一句，是普通球友最轻的身份凭证
+
+- 状态：未使用
+- 来源：2026-07-14 周会研究；Reddit / r/badminton《Why people are so mean when playing?》《People are intimidated to partner me in social games. How do I fix this?》；中羽在线成人小班课经历
+- 来源说明：公开社区与国内长帖交叉验证；用于捕捉失误后的语气如何决定用户是否被接纳。
+- 来源链接：https://www.reddit.com/r/badminton/comments/17vu1rq/why_people_are_so_mean_when_playing/；https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958
+- 原始表达摘要：`没事`、`我补你`、`再来` 这些短句，比水平、球风和等级更能说明一段搭子关系。用户记住的不是标准答案，而是自己失误后，对方有没有让下一分还能继续。
+- 情绪主题：场上语言；失误安全感；搭子关系；被接住
+- 可转成的小红书表达：双打最让人安心的，是你失误后那句没事。
+- 可转成的产品机会：场上那一句卡；被认得版 Player ID 关系字段。
+- 标签：`场上那一句`、`搭子关系`、`情绪安全`
+- 关联笔记：`research/weekly/2026-07-14-emotion-value-research.md`
+- 备注：不能做泛语录卡，必须保留失误、补位、下一分等羽毛球现场。
+
+### 2026-07-14｜固定那一晚，是生活里有人等我的证据
+
+- 状态：未使用
+- 来源：2026-07-14 周会研究；Everyday Active Kent《Priti’s Badminton Story》；中羽在线成人小班课经历；Reddit 羽毛球人生影响讨论
+- 来源说明：公开人物案例、国内论坛长帖和海外社区交叉验证固定周频、关系归属和精神恢复。
+- 来源链接：https://www.everydayactivekent.org.uk/stories/pritis-badminton-story/；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958；https://www.reddit.com/r/badminton/comments/1mtlzcb/how_much_of_an_impact_did_badminton_do_to_your/
+- 原始表达摘要：固定周五、固定周末或下班后两小时，之所以最不想错过，不只是因为能运动，而是那里默认有人出现、有人认得自己，也能暂时从生活压力里退出来。
+- 情绪主题：固定周频；生活锚点；精神回血；被等待
+- 可转成的小红书表达：每周固定那一晚，是生活里有人等我的证据。
+- 可转成的产品机会：每周那一局卡；回来打球卡；第二主场卡时间字段。
+- 标签：`固定球局`、`生活锚点`、`精神回血`
+- 关联笔记：`research/weekly/2026-07-14-emotion-value-research.md`
+- 备注：不要做签到、训练打卡或约球工具；重点保留“谁会出现、为什么不想错过”。
 - 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
 - 备注：暂不做产品，先作为内容互动问题观察。

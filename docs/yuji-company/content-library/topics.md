@@ -1170,3 +1170,44 @@
 - 可关联产品信号：这一周回血记录；回来打球卡；每周那一局卡。
 - 标签：`下班回血`、`精神恢复`、`固定球局`
 - 关联笔记：`research/weekly/2026-07-07-emotion-value-research.md`
+
+## 2026-07-14｜周会研究选题入库
+
+### 你开始被人叫外号那天，可能也算真的留下来了
+
+- 状态：待测试
+- 来源素材：中羽在线三年打球心路；Reddit 新手被接住与 club 归属讨论
+- 来源说明：公开长帖与社区讨论交叉验证，身份感来自被认得、被邀请和被喊上场，不是自我填写的职业标签。
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3837653；https://www.reddit.com/r/badminton/comments/1nvytx0/is_this_a_normal_club_culture_feeling_invisible/；https://www.reddit.com/r/badminton/comments/14lffne/badminton_helped_me_battle_with_insecurities/
+- 内容切口：从第一次进馆像多余的人，写到后来有人用一个只属于球馆的称呼喊自己补局。
+- 封面方向：场边回头、匿名手写外号、远处有人招手；不做职业证件或搞笑外号墙。
+- 评论区问题：你在球馆里，后来是怎么被人叫的？
+- 产品关联：球馆称呼卡 / 被认得版 Player ID
+- 标签：`被认得`、`球馆称呼`、`普通球友身份`
+- 关联研究：`research/weekly/2026-07-14-emotion-value-research.md`
+
+### 双打最让人安心的，是你失误后那句没事
+
+- 状态：待测试
+- 来源素材：Reddit 双打语气讨论；中羽在线成人新手固定球局经历
+- 来源说明：公开社区与论坛长帖交叉验证，失误后的语气比水平标签更能决定关系安全感。
+- 来源链接：https://www.reddit.com/r/badminton/comments/17vu1rq/why_people_are_so_mean_when_playing/；https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958
+- 内容切口：不讨论谁技术更强，只写那口气、那句没事和下一分还敢不敢继续。
+- 封面方向：双打间歇、两支球拍、克制小字 `没事，再来`。
+- 评论区问题：你失误以后，最想听搭子说哪句话？
+- 产品关联：场上那一句卡
+- 标签：`搭子`、`场上语言`、`情绪安全`
+- 关联研究：`research/weekly/2026-07-14-emotion-value-research.md`
+
+### 每周固定那一晚，是生活里有人等我的证据
+
+- 状态：待测试
+- 来源素材：Everyday Active Kent 固定周五案例；中羽在线固定周末球友；Reddit 精神恢复讨论
+- 来源说明：公开案例与社区表达共同说明，固定球局的价值来自重复出现的人和生活恢复，不是普通日程打卡。
+- 来源链接：https://www.everydayactivekent.org.uk/stories/pritis-badminton-story/；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958；https://www.reddit.com/r/badminton/comments/1mtlzcb/how_much_of_an_impact_did_badminton_do_to_your/
+- 内容切口：写“周几、谁会来、为什么即使很累也不想错过”，不写训练频率和自律方法。
+- 封面方向：夜间球馆灯、长椅拍包、手机里一句模糊的 `今晚照旧`。
+- 评论区问题：你最不想错过的是周几那一局？
+- 产品关联：每周那一局卡 / 回来打球卡
+- 标签：`固定球局`、`生活锚点`、`精神回血`
+- 关联研究：`research/weekly/2026-07-14-emotion-value-research.md`
