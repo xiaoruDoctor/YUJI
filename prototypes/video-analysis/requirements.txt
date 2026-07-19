@@ -1,0 +1,15 @@
+numpy
+opencv-python
+pandas
+scipy
+torch
+torchvision
+ultralytics
+tqdm
+pycocotools
+parse
+easydict
+einops
+python-dotenv
+huggingface-hub
+

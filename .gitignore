@@ -11,3 +11,10 @@ docs/yuji-company/sync-reports/
 # 常见运行缓存。
 __pycache__/
 *.pyc
+
+# 羽迹视频算法原型的本地数据、环境、模型和输出不进入远端仓库。
+.venv-video/
+datas/
+outputs/
+.video-models/
+.video-research/
