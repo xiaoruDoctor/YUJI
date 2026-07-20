@@ -1,0 +1,5 @@
+rally_id,start,end,candidate_start,candidate_end,serve_time,landing_time,landing_evidence,is_complete_rally,status,stroke_estimate,shot_count_status,audit_source
+1,4.4667,14.6228,4.4667,14.6228,5.28,,"最后可信击球约 13.12 秒；近场球员追球后停止，但逐帧画面未看清落地、下网或明确死球位置",false,pending_confirmation,13,无法计拍,manual_frame_audit_10fps
+2,17.2554,26.9824,17.2554,26.9824,18.06,22.67,"最后可信击球后无后续击球，双方同时停止争夺，画面比分由 1:1 更新为 1:2；死球成立，但物理触地帧为约值",true,complete_dead_ball_confirmed,15,无法计拍,manual_frame_audit_10fps
+3,30.7922,34.6124,30.7922,34.6124,31.59,,"最后可信击球约 32.95 秒；球员很快放松，但未看清羽毛球落地或下网，不能仅凭停止跑动判完整",false,pending_confirmation,7,无法计拍,manual_frame_audit_10fps
+4,38.5000,46.3688,38.5000,46.3688,39.38,,"最后可信击球约 44.87 秒；双方随后停止争夺，但轨迹缺失且触地点不可见，不能确认真实结束帧",false,pending_confirmation,7,无法计拍,manual_frame_audit_10fps

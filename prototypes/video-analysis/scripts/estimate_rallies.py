@@ -239,7 +239,9 @@ def group_rallies(
         supported = sum(bool(item["has_motion_support"]) for item in group)
         ball_supported = sum(bool(item.get("has_ball_support")) for item in group)
         evidence_confidence = (supported + ball_supported) / (2 * len(group))
-        is_complete = start > 0.2 and end < len(motion) / fps - 0.2
+        # 安静窗口只能生成候选边界，不能证明羽毛球已经落地或成为死球。
+        # 在接入可靠的落点/下网证据前，自动结果一律保守标为待确认。
+        window_not_truncated = start > 0.2 and end < len(motion) / fps - 0.2
         rows.append(
             {
                 "rally_id": len(rows) + 1,
@@ -250,8 +252,16 @@ def group_rallies(
                 "motion_supported_hits": supported,
                 "ball_supported_hits": ball_supported,
                 "confidence": evidence_confidence,
-                "is_complete_rally": is_complete,
-                "status": "estimated" if is_complete else "incomplete",
+                "serve_time": first,
+                "landing_time": np.nan,
+                "landing_evidence": "未检测到可确认的落地、下网或死球证据",
+                "is_complete_rally": False,
+                "shot_count_status": "无法计拍",
+                "status": (
+                    "pending_confirmation"
+                    if window_not_truncated
+                    else "incomplete_video_window"
+                ),
             }
         )
     return pd.DataFrame(rows)
