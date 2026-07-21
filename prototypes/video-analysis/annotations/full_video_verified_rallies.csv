@@ -1,0 +1,2 @@
+rally_id,serve_time,landing_time,landing_evidence,is_complete_rally,status,stroke_estimate,shot_count_status,audit_source
+1,38.06,42.67,"最后可信击球后没有后续击球，双方停止争夺，画面比分由 1:1 更新为 1:2；死球成立，物理触地时间为逐帧约值",true,complete_dead_ball_confirmed,,无法计拍,manual_frame_audit_10fps

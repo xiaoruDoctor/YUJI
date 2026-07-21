@@ -1,0 +1,80 @@
+:root {
+  color-scheme: dark;
+  --bg: #09100f;
+  --panel: #111b18;
+  --panel-2: #17231f;
+  --line: #2b3934;
+  --text: #eef5f1;
+  --muted: #9aaba4;
+  --accent: #d8ff66;
+  --accent-dark: #24340f;
+  --orange: #ffad5c;
+  --danger: #ff7676;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: radial-gradient(circle at 80% 0%, #18352b 0, var(--bg) 38%); color: var(--text); font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif; }
+button, input, textarea, select { font: inherit; }
+button { cursor: pointer; }
+.hidden { display: none !important; }
+.topbar { min-height: 76px; padding: 16px 4vw; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; align-items: center; background: rgba(9,16,15,.84); backdrop-filter: blur(14px); position: sticky; top: 0; z-index: 5; }
+.brand { color: var(--accent); font-size: 21px; font-weight: 800; letter-spacing: .08em; }
+.subtitle, .save-state, p { color: var(--muted); }
+.subtitle { font-size: 13px; margin-top: 4px; }
+.save-state { font-size: 13px; }
+main { width: min(1500px, 94vw); margin: 32px auto 80px; }
+.upload-card { border: 1px solid var(--line); border-radius: 24px; padding: clamp(24px, 4vw, 54px); background: linear-gradient(135deg, rgba(24,42,35,.96), rgba(12,20,18,.96)); display: grid; grid-template-columns: 1fr minmax(320px, .8fr); gap: 48px; align-items: center; }
+h1 { font-size: clamp(32px, 5vw, 64px); line-height: 1.04; margin: 12px 0 18px; max-width: 680px; }
+h2, h3 { margin: 6px 0; }
+.eyebrow { color: var(--accent); font-size: 12px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+#uploadForm { display: grid; gap: 14px; }
+.drop-zone { min-height: 210px; border: 1px dashed #586961; border-radius: 18px; background: rgba(255,255,255,.025); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; gap: 10px; padding: 22px; }
+.drop-zone:hover { border-color: var(--accent); }
+.drop-zone input { position: absolute; opacity: 0; pointer-events: none; }
+.drop-zone span { color: var(--muted); font-size: 13px; }
+button, .text-link { border: 1px solid var(--line); color: var(--text); background: var(--panel-2); border-radius: 10px; padding: 10px 14px; text-decoration: none; }
+.primary { background: var(--accent); color: #10160a; border-color: var(--accent); font-weight: 800; }
+.ghost { background: transparent; }
+.danger { border-color: var(--danger); color: var(--danger); }
+.danger-link { color: var(--danger); background: transparent; border: 0; padding-inline: 4px; }
+.workspace { display: grid; gap: 18px; }
+.project-head, .panel-title, .status-row, .candidate-header { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+.status-card, .video-panel, .candidate-panel, .rally-section { background: rgba(17,27,24,.96); border: 1px solid var(--line); border-radius: 18px; padding: 18px; }
+.progress { height: 8px; border-radius: 99px; background: #27332f; overflow: hidden; margin-top: 14px; }
+.progress div { height: 100%; width: 0; background: var(--accent); transition: width .3s ease; }
+.review-grid { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(360px, .8fr); gap: 18px; align-items: start; }
+.video-panel { position: sticky; top: 94px; }
+video { width: 100%; max-height: 68vh; background: #000; border-radius: 12px; margin-top: 14px; }
+.player-tools { display: flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+#currentTime { min-width: 100px; text-align: center; font-variant-numeric: tabular-nums; }
+.candidate-list { display: grid; gap: 12px; max-height: 76vh; overflow: auto; padding-right: 4px; }
+.candidate-card { border: 1px solid var(--line); border-radius: 14px; background: var(--panel-2); padding: 14px; }
+.candidate-preview { border: 0; background: transparent; padding: 0; color: var(--text); font-weight: 800; }
+.badge { color: var(--orange); background: #332313; border-radius: 99px; padding: 4px 9px; font-size: 12px; }
+.rule { font-size: 13px; line-height: 1.55; }
+.time-grid { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: end; margin: 14px 0; }
+label { color: var(--muted); font-size: 12px; display: grid; gap: 6px; }
+input, textarea, select { width: 100%; color: var(--text); background: #0c1412; border: 1px solid var(--line); border-radius: 8px; padding: 9px; }
+textarea { resize: vertical; }
+.use-current { padding: 9px; font-size: 12px; white-space: nowrap; }
+.candidate-actions { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 12px; }
+.card-message { min-height: 18px; margin: 8px 0 0; font-size: 12px; }
+.rally-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.rally-card { border: 1px solid var(--line); border-radius: 12px; padding: 14px; background: var(--panel-2); }
+.rally-card .downloads { display: flex; gap: 8px; margin-top: 10px; }
+.warnings { color: var(--orange); border: 1px solid #704923; background: #261b10; border-radius: 10px; padding: 10px; margin-top: 10px; font-size: 13px; }
+
+@media (max-width: 980px) {
+  .upload-card, .review-grid { grid-template-columns: 1fr; }
+  .video-panel { position: static; }
+  .candidate-list { max-height: none; }
+}
+
+@media (max-width: 600px) {
+  .topbar { align-items: flex-start; }
+  .save-state { max-width: 140px; text-align: right; }
+  main { width: 94vw; margin-top: 18px; }
+  .upload-card { padding: 22px; gap: 24px; }
+  .time-grid { grid-template-columns: 1fr; }
+  .use-current { justify-self: start; }
+}

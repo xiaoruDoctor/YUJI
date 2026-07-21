@@ -12,4 +12,7 @@ easydict
 einops
 python-dotenv
 huggingface-hub
-
+fastapi
+uvicorn
+python-multipart
+httpx

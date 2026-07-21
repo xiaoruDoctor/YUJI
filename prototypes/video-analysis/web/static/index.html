@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>羽迹｜视频切球工作台</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="brand">YUJI 羽迹</div>
+      <div class="subtitle">把一场球，整理成清晰可保存的回合</div>
+    </div>
+    <div id="saveState" class="save-state">本地运行 · 视频不上传云端</div>
+  </header>
+
+  <main>
+    <section class="upload-card" id="uploadSection">
+      <div>
+        <span class="eyebrow">第一步</span>
+        <h1>上传一段羽毛球视频</h1>
+        <p>系统先生成待确认候选。只有你确认发球和死球边界后，才会导出正式回合。</p>
+      </div>
+      <form id="uploadForm">
+        <label class="drop-zone" for="videoInput">
+          <input id="videoInput" name="video" type="file" accept="video/*" required>
+          <strong id="fileLabel">选择 MP4、MOV 或手机视频</strong>
+          <span>处理在当前 Mac 上运行，长视频可能需要较长时间</span>
+        </label>
+        <button class="primary" type="submit">开始分析</button>
+      </form>
+    </section>
+
+    <section id="workspace" class="workspace hidden">
+      <div class="project-head">
+        <div>
+          <span class="eyebrow">当前项目</span>
+          <h2 id="projectName">—</h2>
+        </div>
+        <button id="newProject" class="ghost">处理新视频</button>
+      </div>
+
+      <div id="statusCard" class="status-card">
+        <div class="status-row">
+          <strong id="stageText">等待处理</strong>
+          <span id="progressText">0%</span>
+        </div>
+        <div class="progress"><div id="progressBar"></div></div>
+        <p id="statusHint">页面可以保持打开，系统会自动更新进度。</p>
+        <button id="retryButton" class="danger hidden">重新处理</button>
+      </div>
+
+      <div id="reviewArea" class="review-grid hidden">
+        <section class="video-panel">
+          <div class="panel-title">
+            <div>
+              <span class="eyebrow">证据播放器</span>
+              <h3>完整人物与羽毛球标记视频</h3>
+            </div>
+            <a id="sourceLink" class="text-link" target="_blank">查看无标记源视频</a>
+          </div>
+          <video id="player" controls preload="metadata"></video>
+          <div class="player-tools">
+            <button data-step="-1">−1 秒</button>
+            <button data-step="-0.1">−0.1 秒</button>
+            <span id="currentTime">00:00.000</span>
+            <button data-step="0.1">+0.1 秒</button>
+            <button data-step="1">+1 秒</button>
+            <select id="playbackRate" aria-label="播放速度">
+              <option value="0.5">0.5×</option>
+              <option value="1" selected>1×</option>
+              <option value="1.5">1.5×</option>
+              <option value="2">2×</option>
+            </select>
+          </div>
+          <div id="warnings" class="warnings hidden"></div>
+        </section>
+
+        <aside class="candidate-panel">
+          <div class="panel-title">
+            <div>
+              <span class="eyebrow">人工确认</span>
+              <h3>待确认候选 <span id="candidateCount">0</span></h3>
+            </div>
+          </div>
+          <p class="rule">必须确认真实发球和落地、下网或死球。捡球、回位和休息不进入正式回合。</p>
+          <div id="candidateList" class="candidate-list"></div>
+        </aside>
+      </div>
+
+      <section id="rallySection" class="rally-section hidden">
+        <div class="panel-title">
+          <div>
+            <span class="eyebrow">正式结果</span>
+            <h3>严格回合 <span id="rallyCount">0</span></h3>
+          </div>
+        </div>
+        <div id="rallyList" class="rally-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <template id="candidateTemplate">
+    <article class="candidate-card">
+      <div class="candidate-header">
+        <button class="candidate-preview"></button>
+        <span class="badge">待确认</span>
+      </div>
+      <div class="time-grid">
+        <label>发球时间<input class="serve-time" type="number" min="0" step="0.01"></label>
+        <button class="use-current serve-current">使用当前帧</button>
+        <label>死球时间<input class="landing-time" type="number" min="0" step="0.01" placeholder="尚未确认"></label>
+        <button class="use-current landing-current">使用当前帧</button>
+      </div>
+      <label>结束证据<textarea class="evidence" rows="2" placeholder="例如：羽毛球落地可见；下网后停止；比分更新且无后续击球"></textarea></label>
+      <div class="candidate-actions">
+        <button class="save-candidate">保存边界</button>
+        <button class="confirm-candidate primary">确认并导出</button>
+        <button class="delete-candidate danger-link">删除误识别</button>
+      </div>
+      <p class="card-message"></p>
+    </article>
+  </template>
+
+  <script src="/static/app.js" defer></script>
+</body>
+</html>

@@ -1211,3 +1211,46 @@
 - 产品关联：每周那一局卡 / 回来打球卡
 - 标签：`固定球局`、`生活锚点`、`精神回血`
 - 关联研究：`research/weekly/2026-07-14-emotion-value-research.md`
+## 2026-07-21｜周会选题入库
+
+### 你们之间，有没有一句只有打球时才会说的话？
+
+- 状态：下周优先候选
+- 来源素材：中羽在线成人小班课经历；Reddit / r/badminton 搭档语气讨论；Medium《The Big Things in Small Matters》
+- 来源说明：公开长帖、社区讨论与个人叙事交叉验证；具体短句必须连着具体场景使用。
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958；https://www.reddit.com/r/badminton/comments/17vu1rq/why_people_are_so_mean_when_playing/；https://medium.com/%40snehaspeaks97/the-big-things-in-small-matters-5532440b093c
+- 核心情绪：搭子内部暗号；失误后的接住；关系确认
+- 标题方向：`你们之间，有没有一句只有打球时才会说的话？`
+- 封面方向：两支拍靠在场边，只留一句 `没事，再来。`
+- 评论区问题：`这句话是谁先说的？为什么你一直记得？`
+- 产品承接：`我们之间那一句` 匿名双人关系卡
+- 标签：`场上那一句`、`固定搭子`、`关系凭证`
+- 关联研究：`research/weekly/2026-07-21-emotion-value-research.md`
+
+### 最高级的球友身份，是别人下次还愿意和你搭
+
+- 状态：备选
+- 来源素材：Reddit / r/badminton 社交局和 club 归属讨论；Toby Ng《Don't Play Singles》
+- 来源说明：海外公开讨论与专栏补证；不讨论技术和胜率，只写关系反馈。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/；https://www.reddit.com/r/badminton/comments/1nvytx0/is_this_a_normal_club_culture_feeling_invisible/；https://towbsss.substack.com/p/dont-play-singles
+- 核心情绪：被认可；再约一局；普通球友荣誉
+- 标题方向：`最高级的球友身份，是别人下次还愿意和你搭`
+- 封面方向：收球后的空场，两个人背影旁只留 `下周还打吗？`
+- 评论区问题：`哪一次“下次还搭”让你觉得自己真的被认可了？`
+- 产品承接：关系卡 `再约一局` 字段
+- 标签：`再约一局`、`轻荣誉`、`球友身份`
+- 关联研究：`research/weekly/2026-07-21-emotion-value-research.md`
+
+### 固定球局散掉以前，你最想留下哪一句？
+
+- 状态：继续观察
+- 来源素材：中羽在线大学球友回忆；Everyday Active Kent 固定周五球局案例
+- 来源说明：国内公开长帖与海外公开人物案例；需要继续补充毕业、换城和最后一局的真实表达。
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3477701；https://www.everydayactivekent.org.uk/stories/pritis-badminton-story/
+- 核心情绪：最后一局；固定关系变化；回忆保存
+- 标题方向：`固定球局散掉以前，你最想留下哪一句？`
+- 封面方向：关灯前的空球馆与收好的球网，不出现毕业煽情元素。
+- 评论区问题：`你有没有一群后来很难再凑齐的球友？`
+- 产品承接：固定球局纪念卡 / 最后一局关系卡
+- 标签：`固定球局`、`最后一局`、`关系纪念`
+- 关联研究：`research/weekly/2026-07-21-emotion-value-research.md`

@@ -83,6 +83,33 @@ prototypes/video-analysis/
     └── render_debug_video.py
 ```
 
+## 本地网页工作台
+
+网页原型使用 FastAPI 和原生 HTML/CSS/JavaScript。视频和项目数据只保存在本机 `outputs/video-web/projects/`，不会上传云端或进入 GitHub。
+
+启动方式：
+
+```bash
+cd /Users/lpx/project_user/YUJI
+.venv-video/bin/pip install -r prototypes/video-analysis/requirements.txt
+.venv-video/bin/python prototypes/video-analysis/run_web.py
+```
+
+浏览器打开：
+
+```text
+http://127.0.0.1:8765
+```
+
+网页流程：
+
+1. 上传本地视频并等待人物、羽毛球、击球和粗候选分析。
+2. 在标记视频中逐帧定位发球接触和落地、下网或死球时间。
+3. 填写结束证据并确认；未填写死球时间和证据时不能导出。
+4. 每个严格回合同时生成标记版和原画质无标记版。
+
+当前一次只处理一个视频。TrackNet 与 YOLO 权重默认从 `.video-research/badminton-pipeline-repro/weights/` 读取，也可以通过 `YUJI_TRACKNET_WEIGHT`、`YUJI_YOLO_WEIGHT` 环境变量覆盖。
+
 模型权重、测试视频和输出均保存在被 Git 忽略的本地目录中。
 
 ## 当前限制

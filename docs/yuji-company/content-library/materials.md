@@ -18,6 +18,50 @@
 - 备注：
 ```
 
+## 2026-07-21｜周会研究素材入库
+
+### 2026-07-21｜一句只有搭子听得懂的话，是最轻的关系凭证
+
+- 状态：待验证
+- 来源：2026-07-21 周会研究；中羽在线成人小班课与找搭子讨论；Reddit / r/badminton 搭档语气讨论；Medium《The Big Things in Small Matters》
+- 来源说明：国内公开长帖、海外公开讨论与个人叙事交叉验证；本周搜索引擎和 Reddit 触发访问拦截，因此使用项目此前已成功读取并保留链接的证据，不补写无法复核的新原话。
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3780958；https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3484710；https://www.reddit.com/r/badminton/comments/17vu1rq/why_people_are_so_mean_when_playing/；https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/；https://medium.com/%40snehaspeaks97/the-big-things-in-small-matters-5532440b093c
+- 原始表达摘要：`没事`、`再来`、`下周还打吗` 只有连着谁先说、在哪一局开始、失误后发生了什么，才不是泛语录，而是两个人共同拥有的关系证据。
+- 情绪主题：场上那一句；搭子关系；情绪安全；内部暗号
+- 可转成的小红书表达：你们之间，有没有一句只有打球时才会说的话？
+- 可转成的产品机会：`我们之间那一句` 匿名双人关系卡。
+- 标签：`场上那一句`、`固定搭子`、`关系凭证`、`可转发`
+- 关联笔记：`research/weekly/2026-07-21-emotion-value-research.md`
+- 备注：必须保留具体球场情境；不做泛语录卡，不默认写成情侣关系。
+
+### 2026-07-21｜打完以后还想再约，是普通球友的小荣誉
+
+- 状态：待验证
+- 来源：2026-07-21 周会研究；Reddit / r/badminton 社交局讨论；Toby Ng《Don't Play Singles》
+- 来源说明：海外公开讨论与专栏交叉验证；重点是普通业余玩家通过“下次还愿意搭”确认自己的球友身份。
+- 来源链接：https://www.reddit.com/r/badminton/comments/1lt7c35/people_are_intimidated_to_partner_me_in_social/；https://www.reddit.com/r/badminton/comments/1nvytx0/is_this_a_normal_club_culture_feeling_invisible/；https://towbsss.substack.com/p/dont-play-singles
+- 原始表达摘要：普通球友最在意的关系反馈，不一定是赢球，而是这一局结束后，对方还愿不愿意再和自己打一场。
+- 情绪主题：再约一局；轻荣誉；被认可；球友身份
+- 可转成的小红书表达：最高级的球友身份，是别人下次还愿意和你搭。
+- 可转成的产品机会：关系卡中的 `再约一局` 字段或轻量徽记。
+- 标签：`再约一局`、`轻荣誉`、`关系反馈`
+- 关联笔记：`research/weekly/2026-07-21-emotion-value-research.md`
+- 备注：不做胜率、搭档评分或社交排行榜。
+
+### 2026-07-21｜固定球局消失以前，用户才更想保存共同痕迹
+
+- 状态：继续观察
+- 来源：2026-07-21 周会研究；中羽在线《我的大学，我的羽毛球，我的青春！》；Everyday Active Kent 人物案例
+- 来源说明：国内公开长帖与海外公开人物案例；用于观察毕业、换城、散局等时间变化是否增强纪念动机。
+- 来源链接：https://bbs.badmintoncn.com/forum.php?mod=viewthread&tid=3477701；https://www.everydayactivekent.org.uk/stories/pritis-badminton-story/
+- 原始表达摘要：固定那一晚、打完一起吃饭、球馆生日和分散后仍约球，让球局变成友谊的时间容器；当固定节奏可能结束时，保存一张共同记录的动机会更强。
+- 情绪主题：固定球局；毕业；换城；最后一局；关系纪念
+- 可转成的小红书表达：固定球局散掉以前，你最想留下哪一句？
+- 可转成的产品机会：固定球局纪念卡 / 最后一局关系卡。
+- 标签：`固定球局`、`最后一局`、`关系纪念`、`时间变化`
+- 关联笔记：`research/weekly/2026-07-21-emotion-value-research.md`
+- 备注：继续采集真实的毕业、换城、球馆关闭和搭子离开故事后再判断付费动机。
+
 ## 2026-06-16｜CEO 图片素材入库
 
 ## 2026-06-23｜周会研究素材入库
