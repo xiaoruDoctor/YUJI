@@ -1,0 +1,9 @@
+{
+  "total": 11696,
+  "detected": 2632,
+  "predicted": 161,
+  "missing": 8903,
+  "detected_ratio": 0.22503419972640218,
+  "predicted_ratio": 0.013765389876880986,
+  "missing_ratio": 0.7612004103967168
+}

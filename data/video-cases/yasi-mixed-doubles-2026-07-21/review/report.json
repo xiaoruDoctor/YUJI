@@ -1,0 +1,29 @@
+{
+  "frames": 11696,
+  "players": {
+    "near_player_1": {
+      "selection": "逐帧近场位置",
+      "label": "NEAR PLAYER L",
+      "detected_frames": 11361,
+      "coverage": 0.9713577291381669
+    },
+    "near_player_2": {
+      "selection": "逐帧近场位置",
+      "label": "NEAR PLAYER R",
+      "detected_frames": 11361,
+      "coverage": 0.9713577291381669
+    }
+  },
+  "ball": {
+    "detected_frames": 2632,
+    "interpolated_frames": 1606,
+    "coverage": 0.36234610123119015
+  },
+  "review_status": "待人工复核",
+  "error_counts": {
+    "跟丢": null,
+    "串人": null,
+    "漏球": null,
+    "误标": null
+  }
+}

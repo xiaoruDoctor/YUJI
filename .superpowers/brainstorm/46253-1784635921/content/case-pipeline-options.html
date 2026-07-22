@@ -1,0 +1,39 @@
+<h2>首个双人标记案例：处理路径选择</h2>
+<p class="subtitle">输入：竖版混双视频。输出：靠近镜头的两名球员框 + 羽毛球点位/短轨迹 + 可核对的逐帧结果。</p>
+
+<div class="options">
+  <div class="option" data-choice="a" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>单次端到端自动标记</h3>
+      <p>一次性生成成片。启动快，但两名球员发生遮挡、切镜时难以定位与修正错误。</p>
+    </div>
+  </div>
+  <div class="option" data-choice="b" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>推荐：可追溯双人基线</h3>
+      <p>先产出人物与球的逐帧 CSV，再从近场候选中锁定两条轨迹，渲染标记视频并抽检。每一处错误都可回到原始数据修正。</p>
+    </div>
+  </div>
+  <div class="option" data-choice="c" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>全人工标注</h3>
+      <p>准确，但 487 秒视频的成本过高，暂不适合作为首个验证闭环。</p>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h3>推荐 B 的输出目录</h3>
+  <div class="mockup">
+    <div class="mockup-header">data/video-cases/ya-si-mixed-doubles-2026-07-21/</div>
+    <div class="mockup-body">
+      <p><code>source/</code> 原始视频引用与元数据</p>
+      <p><code>detections/</code> 人物、羽毛球逐帧结果</p>
+      <p><code>outputs/</code> 双人框选与球轨迹标记视频</p>
+      <p><code>review/</code> 抽检帧、错误记录与验收报告</p>
+    </div>
+  </div>
+</div>

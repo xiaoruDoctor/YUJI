@@ -1,0 +1,26 @@
+{
+  "source_path": "/Users/lpx/project_user/YUJI/data/video-cases/badminton-public-2026-07-21/最强混双组合雅思组合_20260721195610.mp4",
+  "source_sha256": "bd780af43d2dc386c58f10522452e25f7247df13e82d37af82185c7077c43fdc",
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 720,
+        "height": 1280,
+        "avg_frame_rate": "24/1"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "avg_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "487.340998",
+      "size": "26250883"
+    }
+  }
+}
