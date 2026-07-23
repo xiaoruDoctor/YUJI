@@ -21,6 +21,7 @@
 | XY-BASE-04 | 接发瞬间，活力动态 | `docs/yuji-company/visual-system/xiaoyu/assets/base-reference/xy-base-04-receive-action.jpg` | 可用 | 动态运动画面、接发准备 | 适合接发、专注、球场活力场景 |
 | XY-BASE-05 | 下班到球馆，被点亮的感觉 | `docs/yuji-company/visual-system/xiaoyu/assets/base-reference/xy-base-05-after-work.jpg` | 可用 | 下班后情绪出口、城市女生球友 | 适合“推开球馆门以后亮了一点”的情绪入口 |
 | XY-BASE-06 | 小红书高点击封面版 | `docs/yuji-company/visual-system/xiaoyu/assets/base-reference/xy-base-06-xhs-cover.jpg` | 可用 | 小红书高停留封面 | 适合带拍包、场边、情绪封面和人物识别 |
+| XY-BASE-07 | 白净柔光脸部基线 | `docs/yuji-company/visual-system/xiaoyu/assets/base-reference/xy-base-07-soft-matte-face-2026-07-23.png` | 可用 | 后续小羽脸部一致性参考 | CEO 于 2026-07-23 确认；白净、柔和、哑光，禁止油光与焦黄色调 |
 
 ## 使用记录
 

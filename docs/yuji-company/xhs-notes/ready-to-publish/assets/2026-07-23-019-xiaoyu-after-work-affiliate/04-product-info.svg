@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-labelledby="title desc">
+  <title id="title">下班去打球的轻运动套装信息卡</title>
+  <desc id="desc">浅蓝色短袖和深灰色短裤的商品信息卡，显示到手价约35元。</desc>
+  <rect width="1080" height="1440" fill="#edf4f3"/>
+  <rect x="88" y="138" width="904" height="1164" rx="38" fill="#ffffff"/>
+  <rect x="144" y="205" width="792" height="480" rx="26" fill="#dceaf1"/>
+  <path d="M364 315 L451 250 L541 310 L629 250 L716 315 L673 550 L407 550 Z" fill="#b8d5e4"/>
+  <path d="M394 565 L686 565 L734 674 L346 674 Z" fill="#59636e"/>
+  <text x="144" y="790" fill="#182322" font-family="Hiragino Sans GB, Heiti SC, SimHei, sans-serif" font-size="48" font-weight="600">下班后，穿去打球的一套</text>
+  <text x="144" y="865" fill="#53605f" font-family="Hiragino Sans GB, Heiti SC, SimHei, sans-serif" font-size="32">浅蓝 V 领短袖 · 深灰运动短裤</text>
+  <line x1="144" y1="935" x2="936" y2="935" stroke="#d6e1df" stroke-width="2"/>
+  <text x="144" y="1016" fill="#e7505b" font-family="Hiragino Sans GB, Heiti SC, SimHei, sans-serif" font-size="62" font-weight="600">到手约 35 元</text>
+  <text x="144" y="1084" fill="#53605f" font-family="Hiragino Sans GB, Heiti SC, SimHei, sans-serif" font-size="28">价格与尺码以商品页当日为准</text>
+  <text x="144" y="1196" fill="#53605f" font-family="Hiragino Sans GB, Heiti SC, SimHei, sans-serif" font-size="28">轻薄 · 宽松 · 球馆实穿</text>
+</svg>
