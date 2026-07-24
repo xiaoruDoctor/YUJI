@@ -31,6 +31,8 @@
 | 2026-06-09 | 小羽第一人称笔记最终图 | `docs/yuji-company/xhs-notes/ready-to-publish/assets/2026-06-08-006/` | 我喜欢羽毛球，因为它接住过我的很多情绪 | 可用于 2026-06-11 定时发布；本次发现图 2、图 3 服装与封面不完全一致，已写回多图服装一致性规则 |
 | 2026-06-09 | 小羽轻图文封面图 | `docs/yuji-company/xhs-notes/ready-to-publish/assets/2026-06-09-008/xiaoyu-two-hours-cover.jpg` | 下班后那两个小时，像给生活接了一口气 | 可用于 2026-06-13 08:30 定时发布；服装记录为 `XY-OUTFIT-12`，封面文字清楚，适合作为小羽轻图文测试 |
 | 2026-06-15 | 小羽羽毛球出框照片墙首版 | `docs/yuji-company/visual-system/xiaoyu/assets/generated/xiaoyu-badminton-out-of-frame-collage-2026-06-15.png` | 小羽轻图文 / 羽毛球出框照片墙视觉测试 | 可用首版；服装记录为 `XY-OUTFIT-07`；羽毛球识别清楚，主图出框效果中等，如需更强冲出画框可继续生成强化版 |
+| 2026-07-24 | 小羽分身｜球路光环 | `docs/yuji-company/visual-system/xiaoyu/assets/generated/2026-07-24-xiaoyu-clone-light-ring.png` | 小红书人物封面 / 分身动态视觉测试 | 可用；锁定 `XY-BASE-05` 作为角色参考，服装为 `XY-OUTFIT-06`；同一小羽的连续动作残影、球路光环与羽毛球动线均清晰 |
+| 2026-07-24 | 小羽羽球能量环｜清爽版 | `docs/yuji-company/visual-system/xiaoyu/assets/generated/2026-07-24-xiaoyu-energy-ring-youthful.png` | 小红书人物封面 / 高停留动态视觉测试 | 可用；锁定 `XY-BASE-05`，使用 `XY-OUTFIT-15`；抽取“指尖托球、环形水雾、飞散羽球、顶灯球馆”的构图语言，脸部为干净柔雾青春感 |
 
 ## 废弃资产记录
 
